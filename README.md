@@ -1,5 +1,5 @@
 # release-notes-react
-Uma mostra evolutia das versões do react retirado do próprio projeto react 
+Uma mostra evolutiva das versões do react retirado do próprio projeto react 
 
 
 ## 18.0.0 (March 29, 2022)
